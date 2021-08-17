@@ -1,4 +1,6 @@
 # My-Blender-Works
+- [Gifs](https://github.com/myygunduz/My-Blender-Works#-gifs-)
+- [Images](https://github.com/myygunduz/My-Blender-Works#-images-)
 
 
 <h1 align=center> Gifs </h1>
