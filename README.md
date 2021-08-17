@@ -22,4 +22,10 @@
 </p>
 
 
+<h1 align=center> Special Edition </h1>
+
+<p align=center>
+<img src="https://github.com/myygunduz/My-Blender-Works/blob/main/assets/specialedition/python-eğitimi-video.gif"/>
+  
+</p>
 
