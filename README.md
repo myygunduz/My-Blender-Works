@@ -10,6 +10,8 @@
 <img src="https://github.com/myygunduz/My-Blender-Works/blob/main/assets/gifs/blenderWorkOne.gif"/>
   
 <img src="https://github.com/myygunduz/My-Blender-Works/blob/main/assets/gifs/python%20logo%20animation.gif" />
+
+<img src="https://github.com/myygunduz/My-Blender-Works/blob/main/assets/gifs/ruby%20logo%20animation.gif" />
 </p>
 
 <h1 align=center> Images </h1>
